@@ -5,7 +5,7 @@ import './App.css';
 import Home from './components/Home/Home';
 import Footer from './components/Footer/Footer';
 
-import Header from './components/Header/header';
+// import Header from './components/Header/header';
 
 
 function App() {
